@@ -1,0 +1,2 @@
+# Propagation-of-Fake-News-Simulation-from-Different-Nodes-of-a-Graph
+The project focuses on simulating the spread of fake news within a social network, with particular attention to the Twitter platform. Starting from a single individual — identified as a user who can either spread or debunk a fake news item through a tweet or retweet. We analyze how information propagates through the social network.  
