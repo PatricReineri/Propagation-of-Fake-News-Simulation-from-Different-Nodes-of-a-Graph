@@ -85,7 +85,7 @@ Each test ran for **50 iterations**.
 
 ## Testing Results and Plots
 
-![Real vs Artificial Graph](images/test1_artificial.png)
+![Real vs Artificial Graph](images/graph_comparison.png)
 
 ![Test 1 Artificial](images/trend_plot_test_1_model.png)
 ![Test 1 Real](images/trend_plot_test_1.png)
