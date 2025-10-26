@@ -33,14 +33,14 @@ Each node’s behavior is determined by a personalized infection probability, ba
 - **Credibility (Pc):** fake news credibility set at 0.7.  
 
 Overall infection probability per node:  
-\[
+$$
 P_{infection}(i) = \frac{P_i + P_a + P_c}{3}
-\]
+$$
 
 The recovery threshold is defined as:
-\[
+$$
 \text{soglia}_i = P_{infection}(i) - 0.2
-\]
+$$
 
 ---
 
@@ -86,11 +86,10 @@ Each test ran for **50 iterations**.
 ## Testing Results and Plots
 
 ![Real vs Artificial Graph](images/graph_comparison.png)
-
 ![Test 1 Artificial](images/trend_plot_test_1_model.png)
 ![Test 1 Real](images/trend_plot_test_1.png)
 
-more images are available in the `images` folder.
+more tests are available in the `images` folder.
 ---
 
 ##  Visualization
