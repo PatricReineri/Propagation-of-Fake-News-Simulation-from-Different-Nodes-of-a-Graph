@@ -1,7 +1,7 @@
 #  Propagation of Fake News: Simulation from Different Nodes of a Graph
 
 ### Authors
-**Patric Reineri**, **Daniela Magrì**  
+**[Patric Reineri](https://github.com/PatricReineri)**, **[Daniela Magrì](https://github.com/Danix002)**  
 
 
 ---
@@ -85,7 +85,7 @@ Each test ran for **50 iterations**.
 
 ## Testing Results and Plots
 
-![Real vs Artificial Graph](images/graph_comparison.png)
+![Real vs Artificial Graph](images/graphcomparison.png)
 ### Test 1 Artificial vs Real
 ![Test 1 Artificial](images/trend_plot_test_1_model.png)
 ![Test 1 Real](images/trend_plot_test_1.png)
