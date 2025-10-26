@@ -41,7 +41,7 @@ $$
 The recovery threshold is defined as:
 
 $$
-\text{soglia}_i = P_{infection}(i) - 0.2
+\text{threshold}_i = P_{infection}(i) - 0.2
 $$
 
 ---
