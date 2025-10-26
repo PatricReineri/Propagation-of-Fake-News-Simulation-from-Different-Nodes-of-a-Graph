@@ -32,12 +32,14 @@ Each node’s behavior is determined by a personalized infection probability, ba
 - **Age (Pa):** users under 20 or over 50 are more likely to be “infected.”  
 - **Credibility (Pc):** fake news credibility set at 0.7.  
 
-Overall infection probability per node:  
+Overall infection probability per node:
+
 $$
 P_{infection}(i) = \frac{P_i + P_a + P_c}{3}
 $$
 
 The recovery threshold is defined as:
+
 $$
 \text{soglia}_i = P_{infection}(i) - 0.2
 $$
